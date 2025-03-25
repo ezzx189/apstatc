@@ -1,0 +1,136 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias", A24
+http://181.209.95.29:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias", A24 HD
+http://190.94.186.158:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", Canal 26
+http://190.94.186.158:8000/play/a0bp/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Canal Rural
+http://190.94.186.158:8000/play/a0bi/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantil", Cartoonito
+http://181.78.27.128:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Ciudad Magazine
+http://190.94.186.158:8000/play/a0br/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias", C5N
+http://190.94.186.158:8000/play/a0bn/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine", Cine Familiar
+http://190.60.40.35:12500/play/a0eh/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias", CNN En Español
+http://190.94.186.158:8000/play/a0bf/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Comedy Central
+http://190.60.40.35:12500/play/a0ir/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias", Crónica
+http://190.94.186.158:8000/play/a0bo/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", DeporTV
+http://190.94.186.158:8000/play/a0be/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", El Canal de las estrellas
+http://190.94.186.158:8000/play/a0bd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2
+http://190.60.40.35:12500/play/a0fz/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN CHILE
+http://190.216.158.199:8000/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Euro Channel
+http://190.216.158.199:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", FX
+http://190.60.40.35:12500/play/a0k8/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", GENTV
+http://181.78.27.128:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Golden
+http://190.216.158.199:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Golden Edge
+http://190.216.158.199:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música", HTV
+http://45.71.254.1:8000/play/a0on/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales", H2
+http://45.71.254.1:8000/play/a0oa/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", HBO
+http://45.71.254.1:8000/play/a0md/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", HBO+
+http://45.71.254.1:8000/play/a0p1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", HBO Signature
+http://45.71.254.1:8000/play/a0pk/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Lifetime
+http://190.94.186.158:8000/play/a0bg/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música", Mi Música Popular
+http://190.60.40.35:12500/play/a0eg/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música", Mi Música Reggaetón
+http://190.60.40.35:12500/play/MUSICAREGGAETON/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música", Mi Música Salsa
+http://190.60.40.35:12500/play/a0eq/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música", Nick Music
+http://45.71.254.1:8000/play/a0og/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantil", Teen Nick
+http://45.71.254.1:8000/play/a0oh/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Sony
+http://190.216.158.199:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Sony Movies
+http://181.78.12.119:16123/play/a0de/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Space
+http://190.216.158.199:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Star Channel
+http://45.71.254.1:8000/play/a0q6/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Studio Universal
+http://190.216.158.199:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias", TN
+http://190.94.186.158:8000/play/a0bl/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", TNT Sports Chile
+http://45.71.254.1:8000/play/a0q1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", TNT
+http://190.216.158.199:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", TNT Series
+http://190.216.158.199:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", USA
+http://190.216.158.199:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Películas", Warner
+http://190.216.158.199:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Playboy
+http://190.60.40.35:12500/play/a0m4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sextreme
+http://45.71.254.1:8000/play/a0pm/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Venus
+http://45.71.254.1:8000/play/a0p3/index.m3u8
